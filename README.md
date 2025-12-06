@@ -55,3 +55,5 @@ This will compile the improved version (`pacman_fix.cpp`) using g++ with SDL2 li
 - Multiple ghosts with different colors
 - Score tracking based on dots eaten
 - Win/lose conditions
+
+[![DEMO](https://ibb.co/VpzYz1w4)](https://www.youtube.com/watch?v=JKtpJxR8IiI)
